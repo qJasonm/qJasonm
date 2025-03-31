@@ -1,39 +1,37 @@
-# Qijian Ma
+# Hi there, I'm Qijian Ma! 👋
 
-Welcome to my GitHub profile!Below you'll find details on my professional experience, education, and technical skills.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Qijian%20Ma-blue)](https://www.linkedin.com/in/qijian-ma-3bb569256/)  
+[![GitHub](https://img.shields.io/badge/GitHub-qJasonm-lightgrey)](https://github.com/qJasonm)  
+[![Email](https://img.shields.io/badge/Email-qmjas022@gmail.com-red)](mailto:qmjas022@gmail.com)
 
----
-
-## Table of Contents
-- [Professional Experience](#professional-experience)
-- [Education](#education)
-- [Technical Skills](#technical-skills)
-- [Contact](#contact)
+🎓 **Computer Science Student** at University of Colorado Denver (Expected Graduation: May 2026)  
+💻 **IT DevOps Technician & Help Desk Assistant** with expertise in system administration, network monitoring, and technical support
 
 ---
 
-## Professional Experience
+## 💼 Professional Experience
 
 ### Red Rocks Community College, Lakewood, CO
 
-#### DevOps Technician (07/2023 - 01/2025)
-- Managed print services including the setup and maintenance of Papercut solutions on printers, as well as monitoring and performing printer upgrades.
-- Configured and deployed Virtual Desktop Infrastructure (VDI) using VMware, set up physical thin clients, and maintained system reliability.
-- Monitored network infrastructure with Cisco Meraki, performing data analysis via the Meraki API.
-- Managed Jira ticketing system operations, set up ticketing kiosks, and utilized the Jira API for integration and automation.
-- Handled Active Directory account and shared folder permission management.
+#### DevOps Technician  
+*07/2023 - 01/2025*  
+- Managed print services by setting up and maintaining Papercut solutions on printers.  
+- Configured and deployed Virtual Desktop Infrastructure (VDI) using VMware and maintained physical thin clients across campus.  
+- Monitored network infrastructure using Cisco Meraki, including performing data analysis via the Meraki API.  
+- Managed Jira ticketing system operations with kiosk setups and API integrations.  
+- Handled Active Directory account management and shared folder permission setups.
 
-#### IT Help Desk Assistant (02/2022 - 07/2023)
-- Provided technical support to staff, students, and faculty both remotely and in-person.
-- Managed user account lookups and password resets in Active Directory.
-- Troubleshot and resolved Office 365 application issues for seamless functionality.
-- Managed device imaging using SCCM (Microsoft System Center Configuration Manager) and configured Windows environments.
-- Maintained and set up classroom technology infrastructure.
-- Delivered first-line support by resolving departmental tickets using ticketing systems.
+#### IT Help Desk Assistant  
+*02/2022 - 07/2023*  
+- Provided technical support to staff, students, and faculty both remotely and in-person.  
+- Conducted user account lookups and managed password resets in Active Directory.  
+- Troubleshot and resolved Office 365 application issues to ensure seamless functionality.  
+- Managed device imaging using SCCM and configured Windows environments.  
+- Maintained classroom technology infrastructure and handled first-line support through departmental tickets.
 
 ---
 
-## Education
+## 🎓 Education
 
 ### Red Rocks Community College, Lakewood, CO  
 *Transfer, Associate of Science*  
@@ -41,26 +39,23 @@ Welcome to my GitHub profile!Below you'll find details on my professional experi
 
 ### University of Colorado Denver, Denver, CO  
 *Bachelor, Computer Science*  
-01/2024 - Expected Graduation: 05/2026
+01/2024 - Expected Graduation: May 2026
 
 ---
 
-## Technical Skills
+## 🛠 Technical Skills
 
-- **Customer Services:** Windows, iOS, MacOS
-- **Problem Solving**
-- **Programming:** Python, C++
-- **API Integration and Data Analysis**
-- **Languages:** Chinese
-
----
-
-## Contact
-
-**Email:** [qmjas022@gmail.com](mailto:qmjas022@gmail.com)  
-**GitHub:** [GitHub](https://github.com/qJasonm)  
-**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/qijian-ma-3bb569256/)
+- **Customer Services:** Windows, iOS, macOS  
+- **Programming:** Python, C++  
+- **Tools & Technologies:** VMware, Cisco Meraki, Jira, Active Directory, SCCM  
+- **Additional Skills:** API Integration, Data Analysis, Problem Solving, Chinese
 
 ---
 
-Feel free to reach out if you have any questions or opportunities!
+## 📫 Contact Me
+
+Feel free to reach out via email at [qmjas022@gmail.com](mailto:qmjas022@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/qijian-ma-3bb569256/). For more projects and contributions, check out my [GitHub](https://github.com/qJasonm).
+
+---
+
+Thanks for visiting my profile!
