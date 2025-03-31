@@ -1,56 +1,60 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Qijian Ma! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-[YourName]-blue)]([Your LinkedIn URL])  
-[![GitHub](https://img.shields.io/badge/GitHub-[YourGitHubUsername]-lightgrey)]([Your GitHub URL])  
-[![Email](https://img.shields.io/badge/Email-[YourEmail]-red)](mailto:[YourEmail])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Qijian%20Ma-blue)](https://www.linkedin.com/in/qijian-ma-3bb569256/)  
+[![GitHub](https://img.shields.io/badge/GitHub-qJasonm-lightgrey)](https://github.com/qJasonm)  
+[![Email](https://img.shields.io/badge/Email-qmjas022@gmail.com-red)](mailto:qmjas022@gmail.com)
 
-🎓 **[Your Title/Role]** at [Your Institution/Company] ([Graduation or Tenure Info])  
-💻 **[Your Professional Tagline or Expertise]** with expertise in [Your Key Skills or Domains]
+🎓 **Computer Science Student** at University of Colorado Denver (Expected Graduation: May 2026)  
+💻 **IT DevOps Technician & Help Desk Assistant** with expertise in system administration, network monitoring, and technical support
 
 ---
 
 ## 💼 Professional Experience
 
-### [Company/Institution Name], [Location]
+### Red Rocks Community College, Lakewood, CO
 
-#### [Job Title]  
-*[Start Date - End Date]*  
-- [Responsibility or Achievement #1]  
-- [Responsibility or Achievement #2]  
-- [Responsibility or Achievement #3]  
+#### DevOps Technician  
+*07/2023 - 01/2025*  
+- Managed print services by setting up and maintaining Papercut solutions on printers.  
+- Configured and deployed Virtual Desktop Infrastructure (VDI) using VMware and maintained physical thin clients across campus.  
+- Monitored network infrastructure using Cisco Meraki, including performing data analysis via the Meraki API.  
+- Managed Jira ticketing system operations with kiosk setups and API integrations.  
+- Handled Active Directory account management and shared folder permission setups.
 
-#### [Previous Job Title]  
-*[Start Date - End Date]*  
-- [Responsibility or Achievement #1]  
-- [Responsibility or Achievement #2]  
-- [Responsibility or Achievement #3]  
+#### IT Help Desk Assistant  
+*02/2022 - 07/2023*  
+- Provided technical support to staff, students, and faculty both remotely and in-person.  
+- Conducted user account lookups and managed password resets in Active Directory.  
+- Troubleshot and resolved Office 365 application issues to ensure seamless functionality.  
+- Managed device imaging using SCCM and configured Windows environments.  
+- Maintained classroom technology infrastructure and handled first-line support through departmental tickets.
 
 ---
 
 ## 🎓 Education
 
-### [Institution Name], [Location]  
-*[Degree or Program Name]*  
-*[Start Date - End Date]*
+### Red Rocks Community College, Lakewood, CO  
+*Transfer, Associate of Science*  
+09/2022 - 01/2024
 
-### [Another Institution Name], [Location]  
-*[Degree or Program Name]*  
-*[Start Date - End Date]*
+### University of Colorado Denver, Denver, CO  
+*Bachelor, Computer Science*  
+01/2024 - Expected Graduation: May 2026
 
 ---
 
 ## 🛠 Technical Skills
 
-- **Customer/Client Services:** [Skill 1], [Skill 2], ...  
-- **Programming:** [Language 1], [Language 2], ...  
-- **Tools & Technologies:** [Tool/Technology 1], [Tool/Technology 2], ...  
-- **Additional Skills:** [Skill 1], [Skill 2], ...
+- **Customer Services:** Windows, iOS, macOS  
+- **Programming:** Python, C++  
+- **Tools & Technologies:** VMware, Cisco Meraki, Jira, Active Directory, SCCM  
+- **Additional Skills:** API Integration, Data Analysis, Problem Solving, Chinese
 
 ---
 
 ## 📫 Contact Me
 
-Feel free to reach out via email at [YourEmail] or connect with me on [LinkedIn](Your LinkedIn URL). For more projects and contributions, check out my [GitHub](Your GitHub URL).
+Feel free to reach out via email at [qmjas022@gmail.com](mailto:qmjas022@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/qijian-ma-3bb569256/). For more projects and contributions, check out my [GitHub](https://github.com/qJasonm).
 
 ---
 
