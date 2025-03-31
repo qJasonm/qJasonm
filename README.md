@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-qJasonm-lightgrey)](https://github.com/qJasonm)  
 [![Email](https://img.shields.io/badge/Email-qmjas022@gmail.com-red)](mailto:qmjas022@gmail.com)
 
-🎓 **Computer Science Student** at University of Colorado Denver (Expected Graduation: May 2026)  
+🎓 **Computer Science Student** at University of Colorado Denver (Expected Graduation: May 2027)  
 💻 **IT DevOps Technician & Help Desk Assistant** with expertise in system administration, network monitoring, and technical support
 
 ---
