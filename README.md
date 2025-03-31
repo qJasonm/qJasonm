@@ -58,7 +58,6 @@ Welcome to my GitHub profile!Below you'll find details on my professional experi
 ## Contact
 
 **Email:** [qmjas022@gmail.com](mailto:qmjas022@gmail.com)  
-**Phone:** 720-341-1641  
 **GitHub:** [GitHub](https://github.com/qJasonm)  
 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/qijian-ma-3bb569256/)
 
